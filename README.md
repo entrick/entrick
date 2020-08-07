@@ -10,7 +10,7 @@ Preject：
 
 Talks：
 
-- 🐱‍👤 [Short xss]([http://htmlpreview.github.io/?https://github.com/entrick/talks/blob/master/Short%20XSS.html](http://htmlpreview.github.io/?https://github.com/entrick/talks/blob/master/Short XSS.html))
+- 🐱‍👤 [Short XSS](http://htmlpreview.github.io/?https://github.com/entrick/talks/blob/master/Short XSS.html)
 
 The programming language I am using：
 
