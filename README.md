@@ -1,16 +1,20 @@
-### Hi there 👋
+### 👋WELCOME TO MY GITHUB PAGE 
 
-<!--
-**entrick/entrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![entrick's github stats](https://github-readme-stats.vercel.app/api?username=entrick&show_icons=true&theme=dracula)
 
-Here are some ideas to get you started:
+I am a Intelligence analysis, the scope of work is anti cyber crime.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The programming language I am using：
+
+- 🕹️ Javascript
+- 🕹️ Nodejs
+- 🕹️ Python
+- 🕹️ Assembly Language
+
+The following is my skills：
+
+- 💾 Docker
+- 💾 Git
+- 💾 ElasticSearch
+- 💾 Linux
+
